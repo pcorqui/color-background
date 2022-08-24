@@ -1,0 +1,11 @@
+.btn{
+    border: solid black 2px;
+    background: gray;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.container{
+    text-align: center;
+    border:solid black 1px;
+}
